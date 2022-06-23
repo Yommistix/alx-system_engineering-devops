@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd to show  the current_working_directory
+Show current_working_directory
