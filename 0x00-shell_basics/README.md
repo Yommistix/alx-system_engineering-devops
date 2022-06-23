@@ -1,1 +1,1 @@
-Not empty
+script that prints
