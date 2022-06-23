@@ -1,2 +1,1 @@
-#!/bin/bash
-" This repo is for strings"
+" This repo is for shell"
