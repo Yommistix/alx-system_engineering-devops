@@ -1,1 +1,1 @@
-0-iam_betty, 1-who_am_i, #!/bin/bash
+0-iam_betty
